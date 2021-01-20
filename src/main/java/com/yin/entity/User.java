@@ -8,6 +8,7 @@ public class User {
     private long id;
     private String name;
     private int age;
+    private String message1;
 
     public User(long id, String name, int age) {
         this.id = id;
