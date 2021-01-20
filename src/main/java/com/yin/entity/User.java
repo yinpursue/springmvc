@@ -9,6 +9,7 @@ public class User {
     private String name;
     private int age;
     private String message1;
+    private String message2;
 
     public User(long id, String name, int age) {
         this.id = id;
